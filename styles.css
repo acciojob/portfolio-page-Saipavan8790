@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+body {
+	background-color: black;
+	color: aqua;
+	padding: 30px;
+	margin: 0px;
+}
